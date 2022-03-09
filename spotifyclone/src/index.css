@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Circular;
+  src: url(../Circular/CircularStd-Bold.otf)
+}
+
+body {
+  background-color: #171717;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #B3B3B3;
+  font-family: Circular;
+
+}
+
+
+
+
+

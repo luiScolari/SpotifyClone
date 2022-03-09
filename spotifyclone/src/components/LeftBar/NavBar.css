@@ -1,0 +1,23 @@
+.NavBarcontainer {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 120px;
+    margin: 0px 23px;
+    padding: 0;
+}
+
+.NavBarSvgicons {
+    margin-right: 16px;
+}
+
+
+li {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 14px;
+    line-height: 16px;
+    align-items: center;
+    margin: 6px 0px;
+    height: 40px;
+}

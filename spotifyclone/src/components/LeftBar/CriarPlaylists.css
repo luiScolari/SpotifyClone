@@ -1,0 +1,47 @@
+.criarPlaylistsContainer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+}
+
+.criarPlaylist {
+    padding: 8px 24px;
+    background-color: black;
+    border: none;
+    display: flex;
+    align-items: center;
+}
+
+.playlistIcon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    background-color: #afada7;
+    margin-right: 16px;
+}
+
+#heartIconDiv {
+    background-image: linear-gradient(to bottom right, #582CF1, #A7A297);
+}
+
+#plusIcon {
+    color: black;
+}
+
+#heartIcon {
+    color: white;
+}
+
+span {
+    color: #A7A297;
+    font-family: Circular;
+}
+
+hr {
+    width: 200px;
+    height: 1px;
+    border: none;
+    background-color: #1a1919e1;
+}
